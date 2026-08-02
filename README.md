@@ -1,4 +1,4 @@
-# hpc-mcp
+# hpc-support-mcp
 
 A read-only [MCP](https://modelcontextprotocol.io) server exposing **SLURM**, **GPFS**, **Prometheus** (node exporter + **DCGM GPU** metrics) and generic **Elasticsearch** exploration as diagnostic tools for LLM-based HPC support assistants.
 
